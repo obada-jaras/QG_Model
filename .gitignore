@@ -1,0 +1,10 @@
+*.json
+*.tsv
+!valid_qg_tiny.json
+!train_qg_tiny.json
+!valid_qg_small.tsv
+!valid_qg_small.json
+!train_qg_small.tsv
+!train_qg_small.json
+/content
+__pycache__
